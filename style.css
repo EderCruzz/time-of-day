@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+body {
+    background-color: skyblue;
+    text-align: center;
+}
+header {
+    color: white;
+    font: normal 1.5rem arial;
+}
+main {
+    width: 800px;
+    background-color: white;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.349);
+}
+div{
+    font: normal 1.5rem sans-serif;
+    padding-bottom: 20px;
+}
+#apresent {
+    padding-top: 20px;
+}
+img {
+    border-radius: 50%;
+}
+footer {
+    color: white;
+    font: normal 1rem arial;
+    font-style: italic;
+}
