@@ -16,7 +16,7 @@ if (horario < 5){
     apresent.innerHTML = 'Boa noite!'
 }
 
-msg.innerHTML = `Agora são ${horario}:${agora.getMinutes()}:${agora.getSeconds()}`
+msg.innerHTML = `Agora são ${horario}:${agora.getMinutes()}`
 
 if (horario < 5){
     img.src = 'assets/madrugada-250.jpg'
